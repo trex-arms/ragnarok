@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 278.29 198">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g>
+    <circle class="cls-1" cx="215.29" cy="9" r="9"/>
+    <circle class="cls-1" cx="215.29" cy="63" r="9"/>
+    <circle class="cls-1" cx="215.29" cy="116.69" r="9"/>
+    <circle class="cls-1" cx="215.29" cy="189" r="9"/>
+    <path class="cls-1" d="m269.29,18c4.97,0,9-4.03,9-9,0-4.97-4.03-9-9-9h-9c-4.97,0-9,4.03-9,9,0,4.97,4.03,9,9,9h9Z"/>
+    <path class="cls-1" d="m170.12,18c4.97,0,9-4.03,9-9,0-4.97-4.03-9-9-9h-9c-4.97,0-9,4.03-9,9s4.03,9,9,9h9Z"/>
+  </g>
+  <g>
+    <g id="CIRCLE">
+      <circle class="cls-1" cx="63" cy="8.49" r="7.41"/>
+    </g>
+    <g id="CIRCLE-2" data-name="CIRCLE">
+      <circle class="cls-1" cx="7.41" cy="8.49" r="7.41"/>
+    </g>
+    <g id="CIRCLE-3" data-name="CIRCLE">
+      <circle class="cls-1" cx="35.21" cy="87.12" r="7.41"/>
+    </g>
+    <g id="ARC">
+      <path class="cls-1" d="m27.79,119.66c0,4.09,3.32,7.41,7.41,7.41s7.41-3.32,7.41-7.41v-3.53c0-4.09-3.32-7.41-7.41-7.41s-7.41,3.32-7.41,7.41v3.53Z"/>
+    </g>
+    <g id="CIRCLE-4" data-name="CIRCLE">
+      <circle class="cls-1" cx="35.21" cy="8.49" r="7.41"/>
+    </g>
+    <g id="ARC-2" data-name="ARC">
+      <path class="cls-1" d="m27.79,64.07v-7.45c0-4.09,3.32-7.41,7.41-7.41s7.41,3.32,7.41,7.41v7.45c0,4.09-3.32,7.41-7.41,7.41s-7.41-3.32-7.41-7.41Z"/>
+    </g>
+  </g>
+</svg>
